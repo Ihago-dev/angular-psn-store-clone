@@ -1,0 +1,7 @@
+.ps-grid__image {
+  margin-top: 20px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  box-shadow: 100px 0px 0px 0px rgba(0, 0, 0, 0.5);
+}
